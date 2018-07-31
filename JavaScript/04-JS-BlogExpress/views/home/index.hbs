@@ -1,0 +1,45 @@
+<div class="container body-content">
+    <div class="row">
+        {{#each articles}}
+            <div class="col-md-6">
+                <article>
+                    <header>
+                        <h2>{{this.title}}</h2>
+                    </header>
+                    {{#if this.imgUrl}}
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="/article/details/{{this.id}}"><img src="{{this.imgUrl}}" width="100%"></a>
+                        </div>
+                        <div class="col-md-9">
+                            <p>
+                                {{this.teaser}}
+                            </p>
+                        </div>
+                    </div>
+                    {{/if}}
+                    {{#unless this.imgUrl}}
+                        <p>
+                            {{this.teaser}}
+                        </p>
+                    {{/unless}}
+                    <div>
+                        <small class="author col-md-9">
+                            {{this.User.firstName}} {{this.User.lastName}}
+                        </small>
+
+                        <small class="author date">
+                            {{this.date}}
+                        </small>
+                    </div>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="/article/details/{{this.id}}">Read more &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        {{/each}}
+    </div>
+</div>

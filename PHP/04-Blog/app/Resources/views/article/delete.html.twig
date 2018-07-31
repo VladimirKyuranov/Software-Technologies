@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block main %}
+
+    <form method="post">
+
+        <h3 style="color:red;">
+            Are you sure you want to <strong>Delete</strong> this Article?
+        </h3>
+
+        <div class="pull-right">
+            <a class="btn btn-default btn-xs"
+               href="{{ path('user_articles') }}">No</a>
+
+            <input type="submit" class="btn btn-danger btn-xs"
+                   href="{{ path('user_articles') }}" value="Yes"/>
+        </div>
+
+        {{ form_row(form._token) }}
+    </form>
+
+{% endblock %}
+

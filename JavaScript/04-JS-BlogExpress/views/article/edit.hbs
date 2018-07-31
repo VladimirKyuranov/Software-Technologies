@@ -1,0 +1,41 @@
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <form class="form-horizontal" method="POST" action="/article/edit/{{id}}">
+            <fieldset>
+                <legend>Edit Article</legend>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="articleTitle">Article Title</label>
+                    <div class="col-sm-4 ">
+                        <input type="text" class="form-control" id="articleTitle" placeholder="Article Title" name="title" value="{{title}}" required >
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="articleContent">Content</label>
+                    <div class="col-sm-6">
+                        <textarea class="form-control" id="articleContent" rows="5" name="content" required >{{content}}</textarea>
+                    </div>
+                </div>
+
+                <div class="form-group" id="groupAddImage" {{#unless imgUrl}}style="display: none;"{{/unless}}>
+                    <label class="col-sm-4 control-label" for="articleImage">Article Image</label>
+                    <div class="col-sm-4 ">
+                        <input type="url" class="form-control" id="articleImage" placeholder="Image Url" name="imgUrl" value="{{imgUrl}}" >
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <input type="button" class="btn btn-default btn-xs" id="btnAddImage" onclick="handleImageGroup()"{{#if imgUrl}}value="Remove Image"{{/if}}{{#unless imgUrl}}value="Add Image"{{/unless}}>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <a href="javascript:history.back()" class="btn btn-default">Cancel</a>
+
+                        <button type="submit" class="btn btn-success">Save</button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>

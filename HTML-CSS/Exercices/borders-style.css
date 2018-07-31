@@ -1,0 +1,31 @@
+p {
+    border: solid;
+    border-radius: 10px;
+    text-align: center;
+    font-size: larger;
+    background: lightgray;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}

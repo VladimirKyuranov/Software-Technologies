@@ -1,0 +1,48 @@
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-6">
+            <header>
+                <h2>{{user.firstName}} {{user.lastName}}'s Articles</h2>
+                <br/>
+            </header>
+            <div class="row">
+                <ul>
+                    {{#each articles}}
+                        <div class="col-md-6">
+                            <li>
+                                <article>
+                                    <p><a href="/article/details/{{this.id}}">{{this.title}}</a></p>
+                                </article>
+                            </li>
+                        </div>
+                    {{/each}}
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <header>
+                <h2>{{user.firstName}} {{user.lastName}}'s User Details</h2>
+                <br/>
+            </header>
+
+            <p>
+                First Name: {{user.firstName}}
+            </p>
+            <p>
+                Last Name: {{user.lastName}}
+            </p>
+            <p>
+                Email: {{user.email}}
+            </p>
+            <p>
+                Date Registered: {{user.date}}
+            </p>
+
+            <footer>
+                <div class="pull-right">
+                    <a class="btn btn-default btn-xs" href="javascript:history.back()">&laquo; Back</a>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
