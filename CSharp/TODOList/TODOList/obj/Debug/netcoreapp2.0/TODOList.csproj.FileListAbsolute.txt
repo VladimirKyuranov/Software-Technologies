@@ -1,0 +1,11 @@
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\bin\Debug\netcoreapp2.0\TODOList.deps.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\bin\Debug\netcoreapp2.0\TODOList.runtimeconfig.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\bin\Debug\netcoreapp2.0\TODOList.runtimeconfig.dev.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\bin\Debug\netcoreapp2.0\TODOList.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.csprojAssemblyReference.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.csproj.CoreCompileInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.AssemblyInfoInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.AssemblyInfo.cs
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\bin\Debug\netcoreapp2.0\TODOList.pdb
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\TODOList\TODOList\obj\Debug\netcoreapp2.0\TODOList.pdb
