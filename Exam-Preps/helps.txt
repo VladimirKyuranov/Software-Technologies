@@ -1,0 +1,22 @@
+JavaScript - config.json
+
+view project.title => project: project
+view title => project.dataValues
+
+body.project
+req body.project
+
+body.title
+req body
+
+PHP - parameters.yml
+
+create model
+php bin/console doctrine:generate:entity
+php bin/console doctrine:database:create --if-not-exists
+php bin/console doctrine:schema:update --force
+
+
+JAVA - application.properties
+
+C# - ProjectDbContext

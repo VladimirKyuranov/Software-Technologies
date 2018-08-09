@@ -1,0 +1,12 @@
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.deps.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.runtimeconfig.dev.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\bin\Debug\netcoreapp2.0\BookLibrary.pdb
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfoInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.AssemblyInfo.cs
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.pdb
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\CSharp\BookLibrary\BookLibrary\obj\Debug\netcoreapp2.0\BookLibrary.csprojAssemblyReference.cache
