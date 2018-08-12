@@ -26,8 +26,17 @@
       <change beforePath="$PROJECT_DIR$/../../13. Java-Syntax-Tasks-Lab.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../14. Java-Syntax-Exercises.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../15. Java-Basic-Web-Calculator-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSharp/TODOList/.vs/TODOList/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/TODOList/.vs/TODOList/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../CSharp/TODOList/.vs/TODOList/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/TODOList/.vs/TODOList/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/DesignTimeBuild/.dtbcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/.vs/BookLibrary/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Controllers/BooksController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Controllers/BooksController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Views/Books/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Views/Books/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Views/Books/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/Views/Books/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/bin/Debug/netcoreapp2.0/BookLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/bin/Debug/netcoreapp2.0/BookLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/bin/Debug/netcoreapp2.0/BookLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/bin/Debug/netcoreapp2.0/BookLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/obj/Debug/netcoreapp2.0/BookLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/obj/Debug/netcoreapp2.0/BookLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/obj/Debug/netcoreapp2.0/BookLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../CSharp/BookLibrary/BookLibrary/obj/Debug/netcoreapp2.0/BookLibrary.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JAVA/02-JavaSyntax-Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA/02-JavaSyntax-Ex/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JAVA/02-JavaSyntax-Ex/src/MaxSeqOfEqualElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA/02-JavaSyntax-Ex/src/MaxSeqOfEqualElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JAVA/03-Calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JAVA/03-Calculator/.idea/misc.xml" afterDir="false" />
@@ -2817,7 +2826,6 @@
       <change beforePath="$PROJECT_DIR$/../04-ExpressJS-Lab-Calculator/public/stylesheets/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../04-ExpressJS-Lab-Calculator/views/home/index.hbs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../04-ExpressJS-Lab-Calculator/views/layout.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../05-JS-BlogExpress/.idea/05-JS-BlogExpress.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../05-JS-BlogExpress/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../05-JS-BlogExpress/.idea/modules.xml" beforeDir="false" />
@@ -5892,12 +5900,13 @@
     <session id="-1975352228">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -5913,11 +5922,13 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/article.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-138" />
+            <state>
+              <caret column="1" selection-end-column="1" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -5949,11 +5960,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="22" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
+    <option name="y" value="30" />
+    <option name="width" value="814" />
+    <option name="height" value="1001" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -5961,6 +5972,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -5982,7 +5994,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -6026,17 +6037,19 @@
       <workItem from="1533739726909" duration="21000" />
       <workItem from="1533739815209" duration="6000" />
       <workItem from="1533743446582" duration="33000" />
+      <workItem from="1533817177270" duration="115000" />
+      <workItem from="1534052728744" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3721000" />
+    <option name="totallyTimeSpent" value="3840000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <frame x="793" y="30" width="814" height="1001" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12750264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25902063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -6106,7 +6119,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/article.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138" />
+        <state>
+          <caret column="1" selection-end-column="1" />
+        </state>
       </provider>
     </entry>
   </component>
