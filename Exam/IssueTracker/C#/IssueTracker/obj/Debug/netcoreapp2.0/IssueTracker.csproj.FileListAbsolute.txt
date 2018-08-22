@@ -9,3 +9,14 @@ C:\Users\Admin\Desktop\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\Issu
 C:\Users\Admin\Desktop\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
 C:\Users\Admin\Desktop\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
 C:\Users\Admin\Desktop\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Projects\SoftUni\Tech-Module\Software-Technologies\Exam\IssueTracker\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb
