@@ -40,7 +40,7 @@ public class CatController {
     }
 
     @PostMapping("/create")
-    public String createProcess(Model model, CatBindingModel catBindingModel) {
+    public String createProcess(CatBindingModel catBindingModel) {
 
         Cat cat = new Cat(
                 catBindingModel.getName(),

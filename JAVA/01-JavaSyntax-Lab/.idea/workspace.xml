@@ -66,6 +66,8 @@
       <change beforePath="$PROJECT_DIR$/../../14. Java-Syntax-Exercises.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../15. Java-Basic-Web-Calculator-Lab.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01-JavaSyntax-Lab/LargestThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01-JavaSyntax-Lab/LargestThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargestThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LargestThreeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-JavaSyntax-Ex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02-JavaSyntax-Ex/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02-JavaSyntax-Ex/src/MaxSeqOfEqualElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-JavaSyntax-Ex/src/MaxSeqOfEqualElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03-Calculator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Calculator/.idea/misc.xml" afterDir="false" />
@@ -5921,31 +5923,33 @@
     <session id="222234112">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="1667" />
+          <entry key="java" value="1903" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1667" />
+          <entry key="JAVA" value="1903" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -5953,11 +5957,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SumsByTown.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LargestThreeNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -5983,9 +5999,9 @@
         <option value="$PROJECT_DIR$/src/SumNIntegers.java" />
         <option value="$PROJECT_DIR$/src/SymetricNumbers.java" />
         <option value="$PROJECT_DIR$/src/SymmetricNumbers.java" />
-        <option value="$PROJECT_DIR$/src/LargestThreeNumbers.java" />
         <option value="$PROJECT_DIR$/src/SumsByTown.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/LargestThreeNumbers.java" />
       </list>
     </option>
   </component>
@@ -6009,6 +6025,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -6026,14 +6044,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534934346617" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534940634283" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -6054,8 +6070,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.LargestThreeNumbers">
     <configuration name="LargestThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="LargestThreeNumbers" />
       <module name="01-JavaSyntax-Lab" />
       <method v="2">
@@ -6083,25 +6101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="01-JavaSyntax-Lab" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.SumNIntegers" />
       <item itemvalue="Application.SymmetricNumbers" />
       <item itemvalue="Application.LargestThreeNumbers" />
       <item itemvalue="Application.SumsByTown" />
-      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.SumsByTown" />
         <item itemvalue="Application.LargestThreeNumbers" />
+        <item itemvalue="Application.SumsByTown" />
         <item itemvalue="Application.SymmetricNumbers" />
         <item itemvalue="Application.SumNIntegers" />
       </list>
@@ -6120,16 +6129,22 @@
       <workItem from="1532617177716" duration="1927000" />
       <workItem from="1532852962500" duration="7761000" />
       <workItem from="1534934008665" duration="965000" />
+      <workItem from="1534939351548" duration="558000" />
+      <workItem from="1534940109141" duration="80000" />
+      <workItem from="1534940277617" duration="16000" />
+      <workItem from="1534940414868" duration="222000" />
+      <workItem from="1535377041151" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10653000" />
+    <option name="totallyTimeSpent" value="11534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1616" height="1010" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15295629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1625964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -6200,13 +6215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestThreeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThreeIntegersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -6214,20 +6222,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
     <entry file="file://$PROJECT_DIR$/src/SumsByTown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LargestThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
